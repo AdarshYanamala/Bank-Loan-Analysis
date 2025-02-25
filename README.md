@@ -13,7 +13,8 @@ This project analyzes loan approval trends, default rates, and borrower demograp
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 SQL (Data Extraction & Analysis)
 Power BI (Dashboard Visualization)
-![Dashboard Preview](https://raw.githubusercontent.com/AdarshYanamala/Bank-Loan-Analysis/main/images/Ipl analysis -1.png)
+![IPL Analysis](images/Ipl%20analysis%20-1.png)
+
 
 
 # 📊 Key Insights from Analysis
