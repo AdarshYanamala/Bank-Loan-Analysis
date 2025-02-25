@@ -13,6 +13,8 @@ This project analyzes loan approval trends, default rates, and borrower demograp
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 SQL (Data Extraction & Analysis)
 Power BI (Dashboard Visualization)
+![Dashboard Preview](https://raw.githubusercontent.com/AdarshYanamala/Bank-Loan-Analysis/main/images/Ipl analysis -1.png)
+
 
 # 📊 Key Insights from Analysis
 Loan default rate is highest among borrowers with low credit scores.
