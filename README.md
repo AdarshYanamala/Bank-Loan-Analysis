@@ -19,6 +19,12 @@ Here is the Visual representaion of Bank Loan Analysis
 
 ![Bank-Loan-Analysis](images/BANK_ANALYSIS-1.png)
 
+
+![Bank-Loan-Analysis](images/BANK_ANALYSIS-2.png)
+
+
+![Bank-Loan-Analysis](images/BANK_ANALYSIS-3.png)
+
 # 📊 Key Insights from Analysis
 Loan default rate is highest among borrowers with low credit scores.
 Self-employed individuals have a 20% higher risk of default.
